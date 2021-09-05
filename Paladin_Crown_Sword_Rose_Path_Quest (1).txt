@@ -1,0 +1,301 @@
+Crown Path Quest
+-Salute Kantar in Solace
+-Get quest
+-2nd Bandits camp
+-at the gate say 'oloi ena south'
+-you will find the dragonqueen messenger in kill him
+-deliver the letter to Kantar
+-Kill Commander Giarna and the dragon in the Black dragon army
+outpost
+-Report to Kantar
+-Head to Garret
+-Go to the docks, find a crowbar on some shelf on a ship
+-pry footlocker in the secretary room
+-get key
+-open door
+-Report to Liza
+-Embrace Crown
+
+
+Sword Path Quest
+
+Go to Whitestone Glade (near Mt Nevermind)
+****KW Say "Est Sularus Oth Mithas" to woman
+The beautiful woman says 'Ah, the oath of  the Knights. Good day to you. You know, this stone was once the location of the fasting and prayer of the great Vinas Solamnus? It was said that after three days of penitence and devotion he was visited by the three high gods of good to which your order belongs.'
+
+After looking at you with eyes that seem to pierce your soul, she
+continues 'Being a Knight of the Crown, you know about the Blue
+Phoenix, Habbakuk. He was the first to come and visit Vinas showing
+the loyalty and obedience of the first order.'
+
+After a few moments of thought, she continues 'Second, Kiri-Jolith
+appeared as a bison headed constellation in the sky and the second
+order was created to encapsulate courage and self sacrifice. Finally,
+the great platinum dragon Paladine appeared made of only the
+brightest stars in the sky and the third order was solidified in
+Vinas' mind as the force of justice.'
+
+The beautiful woman says 'Lord Kyle often comes here to pray for
+guidance. I don't mind, this land is as much his as it is mine and of
+course I would not mind to see the constellations shine like they
+once did for Vinas. The last time that he arrived, though, Lord Kyle
+seemed to be quite shaken. He was mumbling about the Measure, though
+
+I would guess all of you knights must whisper the rules of the order
+in order to keep them close?'
+
+Go to Lord Kyle in Garret
+**** KW say "measure"
+Lord Kyle stands abruptly from his desk and walks to the window. He turns over his shoulder for a brief moment and then returns his gaze outside to the streets of Garret. Lord Kyle says 'Est Sularus oth Mithas. My honor is my life. Yes, the oath remains strong here in Garret and the people live by it. Grand Master Gunthar Uth Winstan has recently finished his revision to the Measure originally authored by Vinas Solmanus. Of course, the basis of the document remains. The meaning, philosophy and depth of the rules cannot be changed. However, as the river of time flows there comes a need to keep the norms of the order in check with the evolution of society, else we would be lost and crumble to dust.'
+
+Lord Kyle sighs as he scans the street, then turns from the window and stares at you before continuing 'The original measure was 37 volumes each of which contained over 300 pages. I am sure you remember this from your initial training as a squire. In any case, the revised version of the Measure was completed and signed by Grand Master Gunthar and authorized for travel to the High Clerist's Tower where it would be interpreted by the elders and its meaning propagated through the order.'
+
+Leaning over his desk, Lord Kyle continues, 'The caravan never made it. We made travel plans with Emperor Mercadior to meet us at the dock of Gulfport and arrange travel safely through Hylo, past the pirates beyond and to Palanthas where gracious Lord Amothus was awaiting. He was to supply sustenance to our knights and help them continue the last leg of the journey to the Tower. The caravan never made it to Gulfport and now there is the only the worst to fear. Sitting down, Lord Kyle opens his desk drawer and pulls out a bloodied piece of paper. He looks at it and grips it firmly, before pushing it over for you to read.
+----------------------------------------------------------------------
+     The revisions have been acquired.  My pets Zolac and Sorhz
+     were able to subdue the entire caravan without me showing my
+     face.  I will return to the keep at once with the manuscripts.
+      -N                                                              
+-----------------------------------------------------------------------
+Lord Kyle says 'Present me with any evidence you can recover.'
+
+Go to Storms Keep
+Kill Noom in Storms Keep. In Noom's room
+****KW Look nightstand
+****KW Exam nighstand
+****KW Look letter
+
+Noom,
+You have done excellent work. The order  will be in total upheaval without the manuscripts. Without a  revised code there will be confusion in their ranks until that which  is their life, their honor, can no longer be defined. Attached, I  have given you a list of archivists which you shall send parts of  the whole, for safety is better in numbers.
+
+Well done.
+- Lord A.
+P.S. T has volunteered to use her citadel  to help with distribution.
+Malaak
+Sarson
+Terzak
+Caldean
+Gal'vari
+Nria
+Serra
+Tenlo
+
+Go to Flying Citadel
+Kill Tenlo
+****KW search crates
+As you start to search the crates, you think you have find what you were looking for. Several volumes of the  Measure are buried in the straw. There doesn't appear to be as many  volumes as you were expecting.
+
+As you search the crates more, you notice  a slip of paper attached to
+the lid.
+Malaak <<<
+Sarson
+Terzak <<<  Yazzi tells your clan 'terzaks that place near kalaman with all the goblin wonders '
+Caldean
+Gal'vari <<<
+Nria
+Serra <<<
+Maybe it would be wise to return these to  Lord Kyle, before you start
+looking for the rest
+
+Five books each of identical shape and binding rest in a stack. They
+appear to be bound in the same wine red stained leather with golden
+inscriptions adorning the cover. The pages of each have been done
+with a careful and caring hand. As you try to focus on the content,
+your concentration is broken by the intricately designed first
+characters of each paragraph. Each is inhabited by a glaring
+reptilian eye, the iris of which shifts between the color of each of
+the metallic dragons.
+
+Go to Lord Kyle
+****KW present books
+As you present the stack of bound books, you recovered from the legendary flying citadel, you can't help but feel a little pride in yourself. That pride is quickly smashed by Lord Kyle though. Lord Kyle tells you 'You have made a valiant start, but this is only a small portion of the code. I am assuming Tenlo had already delivered the rest, thus this is going to take longer than I had hoped.'
+
+Lord Kyle continues 'We are lucky to have recovered these this fast though. I must admit I am proud of you, storming that citadel really took a lot of skill. Habbakuk must have been watching over you. Well you still have a lot of work ahead, so I will not keep you from your important task. I would recommend you pray at the Whitestone before you leave the area.'
+
+Go to Whitestone Glade
+****KW pray
+As you kneel at the white stone, you feel the guiding hand of the
+gods brush over your shoulder removing your stress and instilling in
+you a sense of duty and purpose you will not soon forget.
+
+**NB We think that praying adds faith to the character, but Bruce was always at full faith and there is no way to check.
+
+Go to Boku Forest
+Kill Malaak
+****KW Open cage 2x
+****KW gather pages cage
+It is all you can do to keep from gagging as you stick your head inside the cage. After sifting through the pages and gathering those that interest you, you have a sheaf of feces covered papers that you are impatient to get delivered to Lord Kyle.
+
+Go to Lord Kyle
+****KW present sheaf
+You can't help but feel relieved to return this stack of feces covered paper to Lord Kyle. Between the responsibility for keeping this document safe and the smell of the dried feces, your nerves are becoming frayed.
+
+Lord Kyle doesn't seem to mind the feces though, as he flips through the pages. After a few moments he looks at you and says 'You have done good, my fellow knight. The damage done to these pages is not something my scribes can not get repaired shortly.'
+
+Lord Kyle continues 'Vultures have always been a nasty animal, but what those kobolds were doing to them, just proves how wicked kobolds can be. I understand you had to kill Malaak. It is a shame we couldn't have brought him to trial, but I would say Paladine provided him with justice.'
+
+Lord Kyle continues 'I will pray Kiri-Jolith continues to guide you. Be sure to pray at the white stone, before you continue on your quest.'
+You receive 0 experience.
+
+Go to Whitestone Glade
+****KW pray
+As you kneel at the white stone, you feel the guiding hand of the gods brush over your shoulder removing your stress and instilling in you a sense of duty and purpose you will not soon forget.
+
+Go to Terzak
+Kill Terzak
+****KW get book shelf
+As you pull the books from the shelf, you get the feeling that Kiri-Jolith is smiling down on you. Just touching these pieces of the code, weighs heavily on you. Even though you are doing everything you can to find the missing pieces, you can't help but wonder if you are setting a good example for the squires that look up to you. Returning these volumes to Lord Kyle will remove the physical burden, but you know the mark they have left on your soul, will remain with you for ever.
+
+Go to Lord Kyle
+****KW present code
+As you approach Lord Kyle, he stops what he is doing and eagerly reaches out for the volumes you recovered from the tower of Terzak. Lord Kyle tells you 'I am impressed that you were able to penetrate Terzak's tower so easily. The knighthood has sent several raids against him before, and each were repelled. You defianetly are blessed by the gods of good.'
+
+Lord Kyle continues 'I will be looking forward to talking to you more, once this quest is completed. Be sure to pray at the white stone for additional guidance.'
+You receive 0 experience.
+
+Go to Whitestone Glade
+****KW pray
+As you kneel at the white stone, you feel the guiding hand of the
+gods brush over your shoulder removing your stress and instilling in
+you a sense of duty and purpose you will not soon forget.
+
+Go to Gal'Vari Isle
+Kill Gal'Vari
+****KW look desk
+****KW get package desk
+As you swipe the package off of Gal'vari's desk, you can't help but sneak a peak inside. You feel a wave of relief sweep over you as you see that a couple volumes of the code are hiding within. A smile crosses your face when you think about how happy Lord Kyle will be to see these.
+
+Go to Lord Kyle
+****KW present package
+You notice a feeling of sadness sweep over you as you deliver the package of books to Lord Kyle. Even though you didn't take the time to unwrap them and to read the beautiful words you know that were written within, you notice that carrying them has made you re-evaluate yourself.
+
+Lord Kyle unwraps the package before turning to you and saying 'You have done a great deed by recovering these texts. These are the volumes that are the heart and soul of our code. It is amazing sometimes, how easily we get caught up in the protocol and forget the purpose of our order.'
+
+Lord Kyle attention is quickly caught up in the books. You are about to cough under your breath to regain his attention, when he looks up and says 'Oh you are dismissed, but remember to pray at the white stone on your way off the island.'
+You receive 0 experience.
+
+Go to Whitestone Glade
+****KW pray
+As you kneel at the white stone, you feel the guiding hand of the
+gods brush over your shoulder removing your stress and instilling in
+you a sense of duty and purpose you will not soon forget.
+
+Go to Balcomes Lair
+Kill Serra
+Kill Balcome
+Room north of Balcombe
+****KW listen librarian
+The apprentice librarian mumbles over and  over 'I only read a few pages, but now I can't let these  beautiful words be hidden among those evil tomes, can you help me undo my  past mistakes?'
+
+****KW c 'abso' apprentice
+A glowing light radiates out from beneath  the black robe of the apprentice. As it encompasses him, you  notice a look of joy starting to spread across his face.
+
+He turns to you and says 'I am glad, you  came looking for these books. Reading them, has had an influence  on me, I will never be able to fully understand.'
+
+He hands you a couple unbound books and  continues 'It is amazing, what an influence words can have on  people. I was ordered to hide these in among Balcombe's other tombs,  but after the first page, I knew these needed to be shared. I am  trusting you to return these to the knighthood.'
+
+With these words, the apprentice utters a  few words of magic and starts to fade out of sight. As he is  vanishing, you notice his robes are changing to a reddish hue.
+
+The pages are stacked neatly even though  they are still unbound. The pitch black letters are enclosed in an  elaborately designed marginalia of wilderness scenes with  fantastical creatures such as nymphs, dryads and faeries. The outermost  side of each border is a silver scaled band which you can't help  but fantasize that it might belong to the neck of the worlds largest  dragon
+
+Go to Lord Kyle
+****KW present parchment
+You can't help but relax as you deliver the large stack of unbound paper to Lord Kyle. At least now you don't have to worry about dropping them and getting the pages all mixed up.
+
+Lord Kyle runs his fingers over the scaled band outlining, before he turns to you and says 'Again you have made me proud. I can tell Habbakuk has blessed you greatly, and I can see that Kiri-Jolith has extended his protection over you too.'
+
+Lord Kyle continues 'I can almost guarantee you, the great dragon is watching you too. I know this quest has kept you busy, so I will not bore you more with my ramblings.'
+
+As you turn to leave, Lord Kyle says 'A short trip to the white stone would be relaxing to your body and a few prayers there would rejuvinate your soul.'
+You receive 0 experience.
+
+Go to Whitestone Glade
+****KW Kneel
+As you kneel down before the legendary white stone, you can't help but feel a sense of pride in yourself knowing you just completed a very important quest. You have too much self restraint to not give credit to the gods of your ancestors though.
+
+As you start of praying to Habbakak, giving him the praise he deserves, you can almost feel the wings of the blue phoenix surrounding you.
+
+As you continue praying and start to praise Kiri-Jolith for giving you courage, you almost swear a set of strong hands grab your shoulders and instill a sense of purpose and inner strength.
+
+As your prayer continues, your thoughts turn towards the platinum dragon, Paladine. It is at this point that your reverence is broken by a tap of a walking stick on your shoulder.
+
+You turn around to find yourself looking up at a knight dressed in full plate and an elderly elf leaning on a crooked stick. The elf looks you over with wisdom filled eyes, that seem to pierce your soul. After his appraisal he says something to the knight in a language you can't understand.
+
+The knight almost cracks a smile, as he salutes you. He says 'Well done, you have proven yourself to me and my elven friend. Arise, as a Knight of the Sword.'
+
+He adds 'Be sure to visit with Sir Marquinn down the road in Garret before you report back to your camp.'
+
+Go to Sir Marquinn in Garret
+Valor the warhorse is standing here, carrying Sir Marquinn von Israeth (white aura).
+****KW embrace sword
+You embrace your new path.
+Sir Marquinn von Israeth welcomes you to the ranks of the Knights of the Sword!
+****KW learn all
+Spell    : Sanctify Ground
+Sphere   : Protection
+Usage    : cast 'sanctify ground'
+Duration : varies
+Effects  : Sanctifies the area.
+Paladins may cast this spell to sanctify an area, deeming the casting of the animate dead spell ineffective while the enchantment lasts.
+
+Spell    : Aura of Command
+Sphere   : Combat
+Usage    : cast 'aura of command' (aura)
+Duration : Varies
+Effects  : Makes the caster more inspiring.
+This spell creates a prestigious aura around the caster that affects the
+entire group, increasing the charisma and wisdom of all group members who are closely aligned with the caster. Additionally, this spell grants protection against certain mind-affecting spells.
+
+Turn/Rally/Bandage skill maxes were increased
+**NB It is probable that some weapon skill maxes were also increased, as they were for the Crown Path. The only way to test this is to train all weapon skills to superb before questing, and see which ones decreased their trained level.
+
+
+
+
+ROSE QUEST
+
+start with perfect faith and see derek in castle uth listen derek
+
+Lord Derek Crownguard says 'I see that you are a promising Sword Knight.'
+
+Lord Derek Crownguard says 'When you have achieved a legendary status you
+should seek out Commander Menolth in the High Clerist Tower. He will give
+you a quest that you can complete if you wish to become a Knight of the
+Rose.'
+
+Lord Derek Crownguard says 'I have little time for you now. At the Outer
+Portcullis of the High Clerist Tower alert them of your preparedness by
+reciting the Oath of the Knights.'
+
+Est Sularus Oth Mithas
+
+
+Listen officer
+
+
+Commander Menolth says 'Greetings, Sword Knight. I see Lord Crownguard has
+referred you to me.'
+
+Commander Menolth says 'The Task of the Rose is to protect the battlements
+of the High Clerist Tower against great threat. In order to accomplish
+this task, you must first obtain a mithril dragonlance. The pieces of the
+lance are in the hands of evil dragons, who live all over Krynn.'
+
+Commander Menolth says 'Please retrieve these pieces and send them to me,
+after you have defeated the evil dragons hoarding each piece. After you
+have sent me the item, I will reveal the location of the next piece to
+you.'
+
+Commander Menolth says 'Return to me when you have gathered all the pieces
+of the lance. Then we will discuss your protection of the battlements.
+Good day, Sir Knight.'
+
+last gaard is first dragon
+nytes for scorch
+storms for flare
+frostbyte for last piece
+re
+
+send (piece name) menolth
+
+need 11 heals, 1-2 elemental rings, and a globe pot, and imm elec
